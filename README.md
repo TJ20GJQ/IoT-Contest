@@ -1,7 +1,7 @@
 # 2023全国大学生物联网竞赛（华为杯）
 ## 城乡静脉——基于时间序列控制的IoT污水处理系统
 #### *IoT-Water —— 基于Flask的项目后端*
-#### （前端参见https://github.com/Johnson3176/IoT-frontend）
+#### 前端参见https://github.com/Johnson3176/IoT-frontend
 **定义路由：**  
 * /：启动获取token  
 * /start_get：启动获取数据并存入数据库  
